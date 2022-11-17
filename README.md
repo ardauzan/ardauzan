@@ -4,7 +4,7 @@ I am a software engineering student at [Faculté des Sciences de Montpellier](ht
 
 ## Skills
 
-- **Programming Languages**: C, C++, Java, Python, JavaScript, TypeScript, SQL, HTML, CSS,  Sass, Bash, Haskell, R
-- **Frameworks**: React, Node.js, Express, Bootstrap, Tailwind
+- **Programming Languages**: C, C++, Java, Python, JavaScript, TypeScript, SQL, No-SQL, HTML, CSS, Bash, Haskell
+- **Frameworks**: Next, React, Node, Express, Tailwind
 - **Databases**: AWS DynamoDB, PostgreSQL, SQLite
 - **Programming Paradigms**: Object Oriented Programming, Functional Programming, Event Driven Programming
