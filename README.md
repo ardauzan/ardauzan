@@ -4,7 +4,7 @@
 
 ## Current roles
 
-1) Proprietary volatility desk manager at [CMZN Consulting](https://github.com/CMZN-Consulting).
+1) Proprietary volatility desk lead at [CMZN Consulting](https://github.com/CMZN-Consulting).
 2) Open-source contributor.
 
 ### About
